@@ -1,4 +1,4 @@
-# neo4jnft
+# bundlr importer
 
 Node.js project to upload data to the Bundlr / Arweave Permaweb
 
